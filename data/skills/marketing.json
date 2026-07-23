@@ -1,0 +1,33 @@
+{
+  "skill_id": "marketing",
+  "skill_name": "Marketing",
+  "skill_name_ar": "التسويق",
+  "category": "Business",
+  "level": "intermediate",
+  "sub_skills": [
+    "Brand Building",
+    "Digital Marketing",
+    "Content Strategy",
+    "Market Research",
+    "Consumer Psychology"
+  ],
+  "description": "Understanding customer behavior, building brands, and creating effective marketing campaigns to promote products and services.",
+  "content_examples": [
+    {
+      "title": "Mad Men",
+      "type": "series",
+      "character": "Don Draper",
+      "scene": "Pitching to clients and creating advertising campaigns",
+      "skill_demo": "Creative marketing, brand storytelling, and understanding consumer psychology",
+      "platform": "Netflix"
+    },
+    {
+      "title": "The Social Network",
+      "type": "movie",
+      "character": "Mark Zuckerberg",
+      "scene": "Building Facebook's growth and user acquisition",
+      "skill_demo": "Digital marketing, viral growth, and user acquisition strategies",
+      "platform": "Amazon Prime"
+    }
+  ]
+}

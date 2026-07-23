@@ -1,0 +1,31 @@
+{
+  "skill_id": "leadership",
+  "skill_name": "Leadership",
+  "skill_name_ar": "القيادة",
+  "category": "Management",
+  "level": "advanced",
+  "sub_skills": [
+    "Decision Making",
+    "Team Management",
+    "Delegation",
+    "Motivation",
+    "Conflict Resolution"
+  ],
+  "description": "The ability to guide, inspire, and lead teams toward achieving goals.",
+  "content_examples": [
+    {
+      "title": "Suits",
+      "type": "series",
+      "character": "Harvey Specter",
+      "scene": "Negotiating with client",
+      "skill_demo": "Leadership through confidence and decisive action"
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "type": "movie",
+      "character": "Jordan Belfort",
+      "scene": "Building the sales team",
+      "skill_demo": "Motivating and leading a team"
+    }
+  ]
+}

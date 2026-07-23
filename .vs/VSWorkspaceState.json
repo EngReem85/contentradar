@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\scripts",
+    "\\src",
+    "\\src\\analytics",
+    "\\src\\collectors",
+    "\\src\\processing",
+    "\\src\\skills",
+    "\\src\\user",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\main.py",
+  "PreviewInSolutionExplorer": false
+}
